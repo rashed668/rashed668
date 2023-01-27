@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Rashed Khan
-#### Web Developer
 
-(https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/327270286_804330784372195_4312045577537178438_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHYmelufB7JXCy8Mlr507zlfPZ2bC0-6Pt89nZsLT7o-9dluUFsGnFSUwEYgZ-7aUTzc2C8-x7TQsrv0J-CPGeN&_nc_ohc=OrTAFDAGcP8AX8Ub5iA&_nc_ht=scontent.fdac80-1.fna&oh=00_AfBaeENsx05k4BRuAycnwdT0nKFucE35le1LQTmhqz27_A&oe=63D7800D)
+#### Web Developer
+![](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/327270286_804330784372195_4312045577537178438_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHYmelufB7JXCy8Mlr507zlfPZ2bC0-6Pt89nZsLT7o-9dluUFsGnFSUwEYgZ-7aUTzc2C8-x7TQsrv0J-CPGeN&_nc_ohc=OrTAFDAGcP8AX8Ub5iA&_nc_ht=scontent.fdac80-1.fna&oh=00_AfBaeENsx05k4BRuAycnwdT0nKFucE35le1LQTmhqz27_A&oe=63D7800D)
 
 My passion for web space development brought me to my institute. Where I am studying for my degree. 
 
